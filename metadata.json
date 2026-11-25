@@ -1,0 +1,6 @@
+{
+  "name": "Casa Sombra",
+  "description": "Juego de terror en primera persona 3D realista en una mansión de dos pisos: despierta en el segundo piso, evita a la abuela que acecha desde el primero y abre la puerta principal para escapar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Casa Sombra</string>
+    <string name="game_subtitle">Mansión de Dos Pisos · Terror en Primera Persona</string>
+    <string name="start_game">Entrar a la Casa</string>
+    <string name="how_to_play">Cómo Sobrevivir</string>
+    <string name="difficulty_label">Dificultad</string>
+    <string name="difficulty_normal">Normal</string>
+    <string name="difficulty_hard">Difícil</string>
+    <string name="difficulty_nightmare">Pesadilla</string>
+    <string name="best_time_label">Mejor escape</string>
+    <string name="no_record_yet">Sin escape aún</string>
+    <string name="pause_title">Pausa</string>
+    <string name="resume_game">Continuar</string>
+    <string name="restart_game">Reiniciar Partida</string>
+    <string name="exit_to_menu">Volver al Menú</string>
+    <string name="sensitivity_label">Sensibilidad de cámara</string>
+    <string name="sound_label">Audio y efectos</string>
+    <string name="flashlight_label">Linterna</string>
+    <string name="crouch_label">Agacharse</string>
+    <string name="sprint_label">Correr</string>
+    <string name="interact_label">Interactuar</string>
+    <string name="leave_hiding_label">Salir del escondite</string>
+    <string name="caught_title">LA ABUELA TE ATRAPÓ</string>
+    <string name="caught_subtitle">Sus pasos resonaron demasiado tarde…</string>
+    <string name="escaped_title">¡ESCAPASTE DE LA MANSIÓN!</string>
+    <string name="escaped_subtitle">Lograste abrir la puerta principal y salir con vida.</string>
+    <string name="retry_button">Intentar de Nuevo</string>
+</resources>
